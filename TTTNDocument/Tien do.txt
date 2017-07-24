@@ -1,0 +1,18 @@
+- Đã hoàn thành
+	+ Problem
+	+ Đưa ra các solution cho problem
+	+ Liệt kê các tool, framework sẽ dùng
+	+ Vẽ sơ đồ xử lý dữ liệu
+	+ Thiết kế Usecase
+	+ 
+	
+- Chưa hoàn thành
+	+ Thiết kế Database
+	+ Thiết kế UI
+	+ Vẽ Class Diagram
+	+ Vẽ Sequence Diagram
+	+ Vẽ Activity Diagram
+	+ Slide báo cáo
+	+ Poster
+	+ Demo
+	

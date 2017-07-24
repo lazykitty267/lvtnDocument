@@ -1,0 +1,28 @@
+﻿Giải pháp
+	1. Dựa vào api, tool 
+	2. 
+		+Dùng thêm các thư viện Xử lí ngôn ngữ tự nhiên (Chưa có Tiếng Việt) để xử lí văn bản sau khi được api trả về
+		+Cho phép người dùng chỉnh sửa văn bản
+	3.
+		+ Bắt buộc sử dụng server, kết nối mạng
+		+ Chuyển qua dùng api offline trên máy để dùng. Upload lên server khi có mạng
+	4. Trước mắt là chọn cách upload dữ liệu thô lên server và xử lí trên server
+	5. Làm 3 ngôn ngữ: Tiếng Anh, Tiếng Nhật, Tiếng Việt
+	6. Cách nhận diện dấu chấm
+		+ Dựa vào tần số của giọng nói để nhận diện dấu chấm
+		+ Dựa vào thời gian sinh text của api
+		+ Dựa vào văn bản được tạo ra
+	7. Cho người dùng thêm dấu phẩy sau khi đoạn văn được tạo
+	8. Chưa có cách giải quyết cụ thể
+		+ Cho người dùng chỉnh sửa
+		+ Đánh dấu chỗ nào cần dùng số/ chữ
+	9. Chưa thống nhất có nên dùng hay không
+		+ Có thể dùng sinh trắc học để nhận diện người dùng
+	10. Trước mắt sẽ sử dụng google speech to text api và Ibm watson abi để làm
+	11. Ban đầu tạo theo mẫu có sẵn của công ty, sau đó thêm chức năng chỉnh sửa mẫu báo cáo, tạo mới
+	12. Chưa thảo luận
+	13. Mã hóa thông tin
+	14. Đang nghĩ đén Firebase
+	15. Tự động điền các field như ngày tháng, người tạo (liên quan để vấn đề 9),....
+	
+		

@@ -1,0 +1,17 @@
+Link tool tham khảo
+- Google speech to text api
+	https://cloud.google.com/speech/
+- Google Natural Language Processing
+	https://cloud.google.com/natural-language/
+- Text Razor
+	https://www.textrazor.com/
+- Watson service
+	https://www.ibm.com/watson/developercloud/services-catalog.html
+- PocketSphinx
+	http://cmusphinx.sourceforge.net/wiki/tutorialandroid	
+- Firebase
+	https://firebase.google.com/?hl=vi
+- Thiết kế UI
+	https://proto.io/
+	https://www.fluidui.com/
+	

@@ -1,0 +1,28 @@
+﻿- Vấn đề
+	1. Âm điệu, âm vực của mỗi người khác nhau
+	2. Độ chính xác của api
+	3. Kết nối mạng 
+	4. Lưu trữ báo cáo
+		+ Export thành file văn bản rồi upload lên server
+		+ Upload dữ liệu raw lên server. Export thành file văn bản trên server.
+	5. Đa ngôn ngữ
+	6. Nhận diện dấu chấm.
+	7. Nhận diện dấu phẩy.
+	8. Nhận diện chữ/số trong văn bản. Cách để chuyển chữ/số cho đúng.
+	9. Có nên cho đăng nhập, tạo tài khoản để quản lí
+	10. Dùng tool nào để làm
+		+ Google speech to text api
+		+ Sphinx
+		+ Ibm watson api (ios)
+	11. Tạo các công cụ để chỉnh sửa, tạo báo cáo.
+	12. Các thông số sẽ quan tâm
+		+ Độ mượt
+		+ thời gian xử lí
+		+ Dung lượng
+		+ ...
+	13. Bảo mật thông tin khi upload lên server
+	14. Dùng gì để tạo server....
+	15. Tự động điền một số field
+	
+	
+	

@@ -1,0 +1,5 @@
+- Trang admin comment cho báo cáo thì người tạo báo cáo sẽ nhận được comment đó trên đt của mình
+- Xác nhận báo cáo đã xem và được duyệt qua bởi admin. Người dùng app có thể thấy được báo cáo của mình
+đã được xem, duyệt hay chưa
+- Đặt lịch làm báo cáo. 
+- Thông báo làm báo cáo, deadline......
